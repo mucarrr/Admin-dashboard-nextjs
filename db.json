@@ -15,13 +15,13 @@
     {
       "id": "2",
       "name": "Samsung Galaxy S23",
-      "category": "Electronics",
-      "price": 999.99,
+      "category": "Elektronik",
+      "price": 999,
       "stock": 30,
       "description": "6.6-inch display, Snapdragon 8 Gen 2, triple 50MP camera system.",
       "image_url": "https://www.expert-hellas.gr/wp-content/uploads/2023/01/samsung-galaxy-S23-8GB-128GB-kinito-013745.jpg",
-      "rating": 4.6,
-      "reviews_count": 85,
+      "rating": 4,
+      "reviews_count": 850,
       "brand": "Samsung"
     },
     {
@@ -119,54 +119,6 @@
       "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FV1_FMT_WHH?wid=752&hei=636&fmt=jpeg&qlt=90&.v=1725492498882",
       "rating": 4.5,
       "reviews_count": 40
-    },
-    {
-      "id": "229e",
-      "name": "merve",
-      "brand": "efe",
-      "category": "Oyuncak",
-      "price": 45,
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQbJ3oxJVPhUPB-h3NtXOk5p7QYQZmZJ6zA&s",
-      "description": "fsbdgd",
-      "stock": 5,
-      "rating": 4,
-      "reviews_count": 55
-    },
-    {
-      "id": "5dbb",
-      "name": "abd",
-      "brand": "dfb",
-      "category": "Elektronik",
-      "price": 54,
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQbJ3oxJVPhUPB-h3NtXOk5p7QYQZmZJ6zA&s",
-      "description": "sfadg`fhg",
-      "stock": 65,
-      "rating": 2,
-      "reviews_count": 45
-    },
-    {
-      "id": "97a6",
-      "name": "sbvf",
-      "brand": "cvx",
-      "category": "Elektronik",
-      "price": 45,
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQbJ3oxJVPhUPB-h3NtXOk5p7QYQZmZJ6zA&s",
-      "description": "sdgf",
-      "stock": 45,
-      "rating": 3,
-      "reviews_count": 4
-    },
-    {
-      "id": "6d4e",
-      "name": "df",
-      "brand": "f",
-      "category": "Elektronik",
-      "price": 55,
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQbJ3oxJVPhUPB-h3NtXOk5p7QYQZmZJ6zA&s",
-      "description": "Ege",
-      "stock": 5,
-      "rating": 5,
-      "reviews_count": 5
     }
   ],
   "users": [
